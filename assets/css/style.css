@@ -33,7 +33,7 @@ a:hover {
 
 .site-header {
   border-bottom: 1px solid var(--line);
-  background: rgba(255, 253, 249, 0.92);
+  background: rgba(251, 247, 255, 0.92);
   backdrop-filter: blur(10px);
   position: sticky;
   top: 0;
